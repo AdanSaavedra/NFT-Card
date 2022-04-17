@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/nft-card-rk80PXc45](https://www.frontendmentor.io/solutions/nft-card-rk80PXc45)
+- Live Site URL: [https://adansaavedra.github.io/NFT-Card/](https://adansaavedra.github.io/NFT-Card/)
 
 ## My process
 
@@ -34,10 +34,8 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 
-
 ## Author
 
 - Website - [Adan Saavedra](https://www.linkedin.com/in/adansaavedra/)
 - Frontend Mentor - [@AdanSaavedra](https://www.frontendmentor.io/profile/AdanSaavedra)
 - Twitter - [@AdanCodes](https://twitter.com/AdanCodes)
-
